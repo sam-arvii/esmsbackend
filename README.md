@@ -1,6 +1,6 @@
 # Elevator Service Management System (ESMS)
 
-> A scalable, production-ready Elevator Service Management System (ESMS) built with **Node.js**, **Express.js**, **TypeScript**, **Prisma**, and **PostgreSQL** following clean architecture, layered design, and enterprise software engineering principles.
+ A scalable, production-ready Elevator Service Management System (ESMS) built with **Node.js**, **Express.js**, **TypeScript**, **Prisma**, and **PostgreSQL** following clean architecture, layered design, and enterprise software engineering principles.
 
 ---
 
