@@ -4,7 +4,7 @@
 
 The ESMS backend follows a layered architecture to ensure scalability, maintainability, and separation of concerns.
 
-![System Architecture]()
+![System Architecture](./ESMS%20Backend%20architecture%20.drawio%20(1)%20(1).png)
 
 ---
 
